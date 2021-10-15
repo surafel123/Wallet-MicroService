@@ -1,0 +1,1 @@
+INSERT INTO transaction VALUES (2222, 200.0,1,1111);
